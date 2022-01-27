@@ -1,0 +1,20 @@
+.topDiv {
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-position: center;
+}
+
+.topText {
+    width: 566px;
+    padding: 170px 0px 0px 0px;
+}
+
+.topTitle {
+    font-size: 60px;
+    margin: 0px 0px 20px 0px;
+}
+
+.topDesc {
+    color: #5B5B5B;
+    font-size: 18px;
+}
