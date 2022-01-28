@@ -7,7 +7,7 @@
 .logoText {
     font-size: 16px;
     color: #0056D6;
-    flex: 1;
+    flex: 0.7;
 }
 
 .mLink {
@@ -23,7 +23,7 @@
 }
 
 .menuLinks {
-    flex: 1.25;
+    flex: 1;
 }
 
 .mLink {
