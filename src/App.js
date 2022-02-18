@@ -4,6 +4,7 @@ import Top from "./components/Top";
 import SecEl from "./components/SecEl";
 import Features from "./components/Features";
 import Services from "./components/Services";
+import Projects from "./components/Projects";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <SecEl />
         <Features />
         <Services />
+        <Projects />
       </div>
   );
 }
